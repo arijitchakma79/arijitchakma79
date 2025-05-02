@@ -80,9 +80,11 @@ Multi-agent AI platform for **automated business ideation**, **competitor resear
 ## 🏆 Achievements
 
 - 🥇 **PennApps 2024 Winner** – 1st Place (out of 105 projects)  
-- 🥈 **HopHacks 2024** – 2nd Place (out of 80 projects)  
-- 🏅 **DragonHacks 2024/2025** – Best Multimedia & Social Impact Awards  
-- 🌍 **Drexel Global Scholar** – Full-tuition awardee (1 of 13 international students)
+- 🥈 **HopHacks 2024** – 2nd Place (out of 80 projects) and Bloomberg Philanthropic Hack - 3rd Prize 
+- 🏅 **DragonHacks 2025** – Best Social Impact Award
+- 🏅 **DevFest 2025** – Best Beginners Award
+- 🏅 **Bitcamps** – Best Beginner Quantum Computing Track
+- 🏅 **DragonHacks 2024** – Best Multimedia & Interaction Track
 
 ---
 
