@@ -54,8 +54,7 @@ I'm a third-year Computer Science student specializing in Artificial Intelligenc
 ## 💼 Experience
 
 ### 🧪 AI Researcher @ Drexel University (Apr 2025 – Present)  
-- Fine-tuned **Flux-dev1** and **SDXL** diffusion models with **LoRA** for step-by-step scientific model generation.  
-- Built 20+ high-quality datasets from YouTube videos and reviewed 15+ academic papers on progressive learning.
+- Devloping a conditioned progressive step by step generation pipeline for drawing hand-drawn scientific model for K-12 student using Flux-dev, LLM, and VLM.
 
 ### ☁️ Cloud & Software Developer Co-op @ Bristol Myers Squibb (Apr 2024 – Sep 2024)  
 - Designed 5+ **AWS Step Functions** ETL pipelines for 10,000+ users.  
