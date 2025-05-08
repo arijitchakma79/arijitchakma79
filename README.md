@@ -54,7 +54,7 @@ I'm a third-year Computer Science student specializing in Artificial Intelligenc
 ## 💼 Experience
 
 ### 🧪 AI Researcher @ Drexel University (Apr 2025 – Present)  
-- Devloping a conditioned progressive step by step generation pipeline for drawing hand-drawn scientific model for K-12 student using Flux-dev, LLM, and VLM.
+- Developing a conditioned, progressive, step-by-step generation pipeline for producing hand-drawn-style scientific models for K–12 students using Flux.dev, large language models (LLMs), and vision-language models (VLMs).
 
 ### ☁️ Cloud & Software Developer Co-op @ Bristol Myers Squibb (Apr 2024 – Sep 2024)  
 - Designed 5+ **AWS Step Functions** ETL pipelines for 10,000+ users.  
