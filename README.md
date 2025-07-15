@@ -52,7 +52,7 @@ I'm a third-year Computer Science student specializing in Artificial Intelligenc
 ---
 
 ## 💼 Experience
-
+### 🧑‍💻 Break Through Tech AI Fellow @ Cornell Tech (May 2025 - Present)  
 ### 🧪 AI Researcher @ Drexel University (Apr 2025 – Present)  
 - Developing a conditioned, progressive, step-by-step generation pipeline for producing hand-drawn-style scientific models for K–12 students using Flux.dev, large language models (LLMs), and vision-language models (VLMs).
 
@@ -74,8 +74,9 @@ AI-powered app to reconstruct **3D wound models** from 2D images using **depth e
 ### 💡 [VentureAhead.AI](https://github.com/arijitchakma79/PhillyCodefest25)  
 Multi-agent AI platform for **automated business ideation**, **competitor research**, and **market simulation** using OpenAI, Flask, and React.
 
----
+For all projects, please check: https://www.arijitchakma.com/#/projects 
 
+---
 ## 🏆 Achievements
 
 - 🥇 **PennApps 2024 Winner** – 1st Place (out of 105 projects)  
