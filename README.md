@@ -1,4 +1,4 @@
-# Arijit Chakma
+# Ariji Chakma
 
 **Undergraduate Researcher in Artificial Intelligence & Computer Vision**  
 Computer Science, Drexel University (BS ’27)  
