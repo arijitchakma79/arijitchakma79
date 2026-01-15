@@ -119,7 +119,7 @@ My projects are available at:
 - 💡 Bloomberg Philanthropic Hack Winner — HopHacks 2024  
 - 🎨 Best Multimedia Track — DragonHacks 2024  
 - 📚 Dean’s List — Drexel University (2023–Present)  
-- 🌍 Drexel Global Scholarship
+- 🌍 Drexel Global Scholarship (2022)
 
 ---
 
