@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx3ejF1aWxzaTkyczN3Mmxid3M4MzEydXZvc2g4eGI3a2liYjF4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="420" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx3ejF1aWxzaTkyczN3Mmxid3M4MzEydXZvc2g4eGI3a2liYjF4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="320" />
 </p>
-
 # Ariji Chakma
 
 **Undergraduate Researcher in Artificial Intelligence & Computer Vision**  
