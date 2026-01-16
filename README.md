@@ -4,7 +4,7 @@
 
 # Ariji Chakma
 
-**Undergraduate Researcher in Artificial Intelligence & Computer Vision**  
+**Undergraduate Researcher in GenAI & Computer Vision**  
 Computer Science, Drexel University (BS ’27)  
 📍 Philadelphia, PA  
 🌐 Website: https://www.arijitchakma.com  
